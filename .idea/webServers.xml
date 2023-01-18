@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6435de6b-7eaf-4adb-ab59-d33a0b184820" name="dev" url=" http://petrov2.academy.logema.tech/">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/petrov2.academy.logema.tech" accessType="SFTP" host="85.193.89.58" port="22" sshConfigId="4a90b9e0-929e-48a3-b921-8c3b154f34b5" sshConfig="bitrix@85.193.89.58:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
